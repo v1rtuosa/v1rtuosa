@@ -38,15 +38,6 @@
 
 <br clear="both">
 
-
-<div align="left">
-  <a href="https://open.spotify.com/user/wtlekw358jomnknyl52q1pr0n">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wtlekw358jomnknyl52q1pr0n&count=5&unique=true&width=812" alt="Spotify recently played"  />
-  </a>
-</div>
-
-<br clear="both">
-
 <h2 align="left">More Information 🔖</h2>
 
 ###
@@ -57,3 +48,13 @@
 <img align="left" height="555" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
 
 ###
+<br clear="both">
+
+<br clear="both">
+<div align="left">
+  <a href="https://open.spotify.com/user/wtlekw358jomnknyl52q1pr0n">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wtlekw358jomnknyl52q1pr0n&count=5&unique=true&width=812" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
