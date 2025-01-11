@@ -6,10 +6,6 @@
 
 ###
 
-<h3 align="left">Tools I used</h3>
-
-###
-
 <br clear="both">
 
 <div align="left">
