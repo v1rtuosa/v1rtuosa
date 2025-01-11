@@ -41,7 +41,7 @@
 <h2 align="left">More Information 🔖</h2>
 
 ###
-<p align="left">I love <b>reading visual novel, books, watching anime and gaming,</b> feel free to talk to me about it, especially <b>Elden Ring, Dota 2, Little Goody Two Shoes, and Key's visual novel like summer pockets, clannad, stella of the end, etc.</b><br><br><b>Puella Magi Madoka Magica</b> is my favorite anime, beside that I love to watch <b>Slice of Life</b> typashit like <b>Non Non Biyori</b> and other relaxing anime</p>
+<p align="left">I love <b>reading visual novel, books, watching anime and gaming,</b> feel free to talk to me about it, especially <b>Elden Ring, Dota 2, Little Goody Two Shoes, and Key's visual novel like summer pockets, clannad, stella of the end, etc.</b><br><br><b>Puella Magi Madoka Magica</b> is my favorite anime, besides that I love to watch <b>Slice of Life</b> typashit like <b>Non Non Biyori</b> and other relaxing anime</p>
 
 <br clear="both">
 
