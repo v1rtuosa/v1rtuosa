@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="25" alt="aftereffects logo"  />
   <img width="15" />
@@ -34,20 +36,6 @@
 
 ###
 
-<div align="left">
-  <img height="555" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/wtlekw358jomnknyl52q1pr0n">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wtlekw358jomnknyl52q1pr0n&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">find me online!</h3>
 
 ###
@@ -65,9 +53,26 @@
   <a href="https://www.facebook.com/kaka.inochi.7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/v1rtuosa_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/wtlekw358jomnknyl52q1pr0n">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wtlekw358jomnknyl52q1pr0n&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="422" src="https://i.pinimg.com/736x/90/57/97/90579752fa694eb085d5cbb5c7316acf.jpg"  />
+
+###
+
+<img align="left" height="311" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
 
 ###
