@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">Tools I used</h3>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -36,27 +40,6 @@
 
 ###
 
-<h3 align="left">find me online!</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kaka-inochi-b05a55238/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@v1rtuosa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/dosuko1_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/kaka.inochi.7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -69,7 +52,7 @@
 
 <br clear="both">
 
-<img align="right" height="422" src="https://i.pinimg.com/736x/90/57/97/90579752fa694eb085d5cbb5c7316acf.jpg"  />
+<img align="right" height="424" src="https://i.pinimg.com/736x/90/57/97/90579752fa694eb085d5cbb5c7316acf.jpg"  />
 
 ###
 
