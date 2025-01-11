@@ -44,18 +44,12 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/wtlekw358jomnknyl52q1pr0n">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wtlekw358jomnknyl52q1pr0n&count=5&unique=true&width=800" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wtlekw358jomnknyl52q1pr0n&count=5&unique=true&width=812" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="424" src="https://i.pinimg.com/736x/90/57/97/90579752fa694eb085d5cbb5c7316acf.jpg"  />
-
-###
-
-<img align="left" height="311" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
+<img align="left" height="555" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
 
 ###
