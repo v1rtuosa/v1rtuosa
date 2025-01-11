@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a versatile designer specializing in <b>Motion Graphics Design, UI/UX Design, and Website Design.</b> Since 2020, I’ve been passionate about exploring the design world and continuously striving to improve my skills.<br><br>I also do coding sometimes, I work with unity for <b>game programming</b> and  <b>machine learning</b> stuff with ML-agents</p>
+<p align="left">I'm a versatile designer specializing in <b>Motion Graphics Design, UI/UX Design, and Website Design.</b> Since 2020, I’ve been passionate about exploring the design world and continuously striving to improve my skills.<br><br>I also do coding sometimes, I work with unity for <b>game programming</b> and <b>machine learning</b> stuff with ML-agents</p>
 
 ###
 
@@ -50,7 +50,7 @@
 <h2 align="left">More Information 🔖</h2>
 
 ###
-<p align="left">I love <b>reading visual novel & books, watching anime and gaming,</b> feel free to talk to me about it, especially <b>Elden Ring, Dota 2, Little Goody Two Shoes, and Summer Pockets.</b><br><br>Puella Magi Madoka Magica is my favorite anime, beside that I love to watch <b>Slice of Life</b> typashit like <b>Non Non Biyori</b> and other relaxing anime</p>
+<p align="left">I love <b>reading visual novel & books, watching anime and gaming,</b> feel free to talk to me about it, especially <b>Elden Ring, Dota 2, Little Goody Two Shoes, and Summer Pockets.</b><br><be><b>Puella Magi Madoka Magica</b> is my favorite anime, beside that I love to watch <b>Slice of Life</b> typashit like <b>Non Non Biyori</b> and other relaxing anime</p>
 <img align="left" height="555" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
 
 ###
