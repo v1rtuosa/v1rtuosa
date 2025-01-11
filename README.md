@@ -50,7 +50,10 @@
 <h2 align="left">More Information 🔖</h2>
 
 ###
-<p align="left">I love <b>reading visual novel & books, watching anime and gaming,</b> feel free to talk to me about it, especially <b>Elden Ring, Dota 2, Little Goody Two Shoes, and Summer Pockets.</b><br><be><b>Puella Magi Madoka Magica</b> is my favorite anime, beside that I love to watch <b>Slice of Life</b> typashit like <b>Non Non Biyori</b> and other relaxing anime</p>
+<p align="left">I love <b>reading visual novel & books, watching anime and gaming,</b> feel free to talk to me about it, especially <b>Elden Ring, Dota 2, Little Goody Two Shoes, and Summer Pockets.</b><br><br><b>Puella Magi Madoka Magica</b> is my favorite anime, beside that I love to watch <b>Slice of Life</b> typashit like <b>Non Non Biyori</b> and other relaxing anime</p>
+
+<br clear="both">
+
 <img align="left" height="555" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
 
 ###
