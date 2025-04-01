@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Learning UI/UX design<br><br>I also do coding sometimes, I work with unity for <b>game programming</b> and <b>machine learning</b> stuff with ML-agents</p>
+<p align="left">Learning UI/UX design<br><br>I also code sometimes, usually game dev and machine learning</p>
 
 ###
 
