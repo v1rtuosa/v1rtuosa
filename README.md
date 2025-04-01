@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Learning UI/UX design<br><br>I also code sometimes, usually game dev and machine learning</p>
+<p align="left">Learning UI/UX and web design<br><br>I also code sometimes, usually game dev and machine learning</p>
 
 ###
 
