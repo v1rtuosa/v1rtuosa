@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a versatile designer specializing in <b>Motion Graphics Design, UI/UX Design, and Website Design.</b> Since 2020, I’ve been passionate about exploring the design world and continuously striving to improve my skills.<br><br>I also do coding sometimes, I work with unity for <b>game programming</b> and <b>machine learning</b> stuff with ML-agents</p>
+<p align="left">Learning UI/UX design<br><br>I also do coding sometimes, I work with unity for <b>game programming</b> and <b>machine learning</b> stuff with ML-agents</p>
 
 ###
 
@@ -41,7 +41,7 @@
 <h2 align="left">More Information 🔖</h2>
 
 ###
-<p align="left">I love <b>reading visual novel, books, watching anime and gaming,</b> feel free to talk to me about it, especially <b>Elden Ring, Dota 2, Little Goody Two Shoes, and Key's visual novel like summer pockets, clannad, stella of the end, etc.</b><br><br><b>Puella Magi Madoka Magica</b> is my favorite anime, besides that I love to watch <b>Slice of Life</b> typashit like <b>Non Non Biyori</b> and other relaxing anime</p>
+<p align="left">I love <b>visual novel and english classics,</b> feel free to talk to me about it</p>
 
 <br clear="both">
 
